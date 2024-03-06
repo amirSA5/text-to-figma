@@ -2,7 +2,7 @@ import openai
 
 # EDIT ME
 print('Change your OpenAI Key!')
-openai.api_key = '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'
+openai.api_key =''
 
 
 
